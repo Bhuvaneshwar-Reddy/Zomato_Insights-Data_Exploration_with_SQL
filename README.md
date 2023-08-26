@@ -1,4 +1,4 @@
-# Zomato_Insights-Data_Exploration_with_SQL
+# Zomato Insights: Data Exploration with SQL
 
 ## Introduction:
 
